@@ -25,7 +25,7 @@ short_bio: >-
   Hello, I am a second year M.S. student advised by Prof. <a href="https://donalee.github.io" target="_blank">Dongha Lee</a> at <a href="http://diyonsei.notion.site" target="_blank">DLI Lab</a>, Yonsei University. 
   </p>
   <p>
-  As a researcher in natural language processing (NLP), I aim to develop a human-like and faithful Large Language Model (LLM). Specifically, my research interest includes: (i) <b>evaluating knowledge of LLMs</b> in various domains and tasks, and (ii) <b>injecting, augmenting, and updating knowledge</b> to LLMs.
+  As a researcher in natural language processing (NLP), I aim to develop a human-like and faithful Large Language Model (LLM). Specifically, my research interest includes: (i) <b>evaluating knowledge of LLMs</b> in various domains and tasks, and (ii) <b>injecting, augmenting, and updating knowledge to LLMs.</b>
   <p>
   Most recently, I am interested in creating benchmarks and evaluating LLMs, especially in terms of their Korean (and multilingual) proficiency on various tasks. 
   </p>
