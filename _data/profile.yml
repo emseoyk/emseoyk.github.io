@@ -22,17 +22,10 @@ github: emseoyk
 short_bio_text_justify: false
 short_bio: >-
   <p>
-  Hello, I am a second year M.S. student at Yonsei University (DLI Lab), advised by Prof. Dongha Lee. <br>
-  As a researcher in natural language processing (NLP) field, I aim to build a knowledgeable large Language Model (LLM) that can assist people faithfully. 
+  Hello, I am a second year M.S. student at Yonsei University as a member of <a href="http://diyonsei.notion.site" target="_blank">DLI Lab</a>, advised by Prof. <a href="https://donalee.github.io" target="_blank">Dongha Lee</a>. 
   </p>
-
   <p>
-  My research interest includes but not limited to:
-  <ul>
-  <li> Evaluating knowledge of LLMs in various domains and tasks
-  <li> Knowledge Augmentation of LLMs
-  </p>
-
+  As a researcher in natural language processing (NLP) field, I aim to build a knowledgeable large Language Model (LLM) that can assist people faithfully. My research interest includes but not limited to: (i) <b>evaluating knowledge of LLMs</b> in various domains and tasks, and (ii) <b>injecting, augmenting, and updating knowledge</b> to LLMs.
   <p>
   Most recently, I am interested in creating benchmarks and evaluating LLMs, especially in terms of their Korean (and multilingual) proficiency on various tasks. 
   </p>
