@@ -9,7 +9,7 @@ navbar_name: "Seoyeon Kim"
 
 
 email: "emseoyk@yonsei.ac.kr"
-cv_link: https://emseoyk.github.io/assets/SeoYeonKim_CV.pdf
+cv_link: https://emseoyk.github.io/assets/syk_cv_250304.pdf
 gscholar: https://scholar.google.com/citations?hl=ko&user=FsOeY4UAAAAJ  # This is an example, replace it with your own Google Scholar ID
 linkedin: seoyeonkim1121
 github: emseoyk
@@ -54,6 +54,11 @@ experience:
   logo: /assets/images/badges/tutoring.png
   position: AI Researcher
   date: Mar. 2023 - Feb. 2024
+
+- name: Hanwha General Insurance
+  logo: /assets/images/badges/hwgi.png
+  position: AI Engineer Intern
+  date: Jan. 2025 - Feb. 2025
 
 # awards:
 # - name: Award Name 2
